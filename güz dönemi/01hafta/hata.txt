@@ -1,0 +1,7 @@
+
+"A Setup Package is either missing or damaged error"
+https://stackoverflow.com/questions/32445763/a-setup-package-is-either-missing-or-damaged-error-while-installing-visual-stu
+
+delta
+1,5,6
+

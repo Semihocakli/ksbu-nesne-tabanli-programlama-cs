@@ -1,0 +1,7 @@
+
+2.Derece Denklem hesaplama
+Nan  !!!!
+*******
+delta
+1,5,6
+

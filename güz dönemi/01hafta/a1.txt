@@ -1,0 +1,24 @@
+***************
+form1.cs[Design] (form sayfası)
+Form1.cs         (kod sayfası)(F7)
+Form1.Designer.cs (Nesne özellikler sayfası)
+*****************
+Debug\Any CPU \ Start - F5
+************
+Solution Explorer (sağda)
+Properties (özellikler)sağda -F4
+Toollbox (solda) 
+********************
+TEXTBOX,LABEL,BUTON,picturebox
+*************
+events
+************
+if(){}else{}
+main(){}
+for(){}
+*****************
+WindowsFormsApplication1
+klasör adı değiştir
+***********************
+Form,button,text isimleri (Name) değiştirmeyiniz.
+******************
