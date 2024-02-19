@@ -1,0 +1,8 @@
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\home\dnot1\csharp2\ksbu1\xuyg3\indirim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

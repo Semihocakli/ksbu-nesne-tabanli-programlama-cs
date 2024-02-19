@@ -1,0 +1,9 @@
+l1:ort
+l2:d1
+l3:d2
+l4:harf
+
+run to cursor
+BreakPoint
+
+name değiştirme

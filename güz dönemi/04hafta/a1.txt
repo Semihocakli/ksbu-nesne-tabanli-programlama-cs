@@ -1,0 +1,15 @@
+4.haftayı yükledim.
+*****
+(indirim) uygulamasının tasarım/kodları mevcuttur.
+******
+(4islem2_5tip) uygulamasının tasarımı mevcuttur.
+Kodları eksiktir.tamamlayın.
+******
+(ozet1 / taksit1) uygulamasının tasarım/kodları mevcuttur.
+Kodları eksiktir.tamamlayın.
+******
+(taksit2, taksit3,4islem3)
+uygulamasının tasarım/kodları yoktur.
+******
+Hafta sonuna kadar yapınız.
+******

@@ -1,0 +1,4 @@
+listbox_odev1_tekli.exe
+listbox_odev2_coklu.exe
+
+Bu ödevler için 1 hafta süreniz var.

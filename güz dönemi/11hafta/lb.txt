@@ -1,0 +1,50 @@
+**********************
+listBox1.Items.Add("BOLU");
+listBox2.Items.AddRange();
+
+listBox1.Items.Insert(2, "BOLU"); //if,for,0,1,2,3
+listBox1.Items.Insert(0, listBox1.SelectedItems[0])
+
+listBox2.Items.Add(listBox1.SelectedItem);
+listBox2.Items.Add(listBox1.Text);
+
+listBox1.Items.RemoveAt(1);
+listBox1.Items.Remove("BOLU");
+
+listBox1.SelectedIndex=0; //-1,0,1,2,3
+listBox1.SelectedIndex
+
+listBox1.Text= "BOLU";        //A
+listBox1.Items[1]="BOLU";    //A,if,for,0,1,2,3
+listBox1.Items[index]        //A,if,for,0,1,2,3
+listBox1.Items[listBox1.SelectedIndex] //A,if,for,0,1,2,3
+listBox1.Items[listBox1.SelectedIndices[0]]  //A,if,for
+listBox3.SelectedIndices[0]  //if,for,0,1,2,3
+
+listBox1.Items.Remove(listBox1.Text);
+listBox1.Items.RemoveAt(listBox1.SelectedIndices[0])
+
+listBox1.SelectedItem
+listBox1.Items[0]         //if,for,0,1,2,3
+listBox1.SelectedItems[0] //if,for,0,1,2,3
+listBox1.SelectedIndices[0] //if,0,1,2,3
+listBox1.Items[listBox1.SelectedIndices[i]]
+listBox2.Items.Add(listBox1.Items[listBox1.SelectedIndices[i]])
+
+listBox1.Items.Count
+listBox1.SelectedIndices.Count
+listBox1.SelectedItems.Count
+
+if (listBox1.Items.IndexOf(textBox1.Text) == -1) //-1,0,1,2
+
+
+listBox1.GetSelected(i)  //for,0,1,2,3
+listBox1.SetSelected(1, true); //for,0,1,2,3
+listBox1.ClearSelected();
+listBox1.SelectedItems.Clear();
+listBox1.Items.Clear();
+**********************
+
+
+
+

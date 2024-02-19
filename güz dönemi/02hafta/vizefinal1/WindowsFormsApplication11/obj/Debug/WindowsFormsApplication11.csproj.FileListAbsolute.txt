@@ -1,0 +1,9 @@
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\Semih\Desktop\NTP-ODEV\02hafta\vizefinal1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb

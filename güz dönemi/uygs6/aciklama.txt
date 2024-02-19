@@ -1,0 +1,46 @@
+button1_Click -//ekle (her şekilde)
+MessageBox.Show("TB1 Doldurunuz...");
+label1.Text = "YOK ama ekleniyor";
+label1.Text = "VAR ama ekleniyor";
+label2.Text = "En alta eklendi,seçildi";
+*****************
+button2_Click - //ekle (LB1 de yoksa)
+MessageBox.Show("TB2 Doldurunuz...");
+label1.Text = "Yok, En alta eklendi ve seçildi";
+label1.Text = "listede var, eklenmedi";
+label2.Text =  " adet mevcut";
+*****************
+button3_Click - //degistir (Tekli/Çoklu)
+MessageBox.Show("TB3 Doldurunuz...");
+MessageBox.Show("En az bir kayıt seçiniz.");
+label1.Text = "listede mevcut, tümü değiştirildi";
+label1.Text = "listede mevcut, değiştirildi";//tekse
+label2.Text = " adet mevcut";
+*****************
+button4_Click - //bul (Tekli/Çoklu)
+MessageBox.Show("TB4 Doldurunuz...");
+label1.Text = "Bulunamadı";
+label1.Text = "Bulundu";
+label2.Text = s + " adet mevcut";
+*****************
+button5_Click - //sil (Tekli/Çoklu)
+MessageBox.Show("En az bir kayıt seçiniz.");
+label1.Text = "listede mevcut,silindi";
+label2.Text = a + " adet mevcut";
+*****************
+button6_Click - //en üste taşı (Tekli/Çoklu)
+MessageBox.Show("LB3 En az 1 seçiniz");
+*****************
+button7_Click - //en alta taşı (Tekli/Çoklu)
+MessageBox.Show("LB3 En az 1 seçiniz");
+*****************
+button8_Click - //en üst ile yer değiştir
+MessageBox.Show("LB3 den 1 tane seçiniz"); 
+MessageBox.Show("LB3 den ilk kayıt seçemessiniz");
+*****************
+button9_Click - //en alt ile yer değiştir
+MessageBox.Show("LB3 den 1 tane seçiniz");
+MessageBox.Show("LB3 den son kayıt seçemessiniz");
+*****************
+
+
